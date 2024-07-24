@@ -58,7 +58,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://public.simplyblk.xyz/4.1.zip|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://public.simplyblk.xyz/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://public.simplyblk.xyz/4.4.rar|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		MANIFEST ONLY |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public.simplyblk.xyz/4.5.rar|
 
 # Season 5
@@ -76,7 +76,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://public.simplyblk.xyz/6.00.rar|
-| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		N/A |
+| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		MANIFEST ONLY |
 | 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |           https://public.simplyblk.xyz/6.01.rar|
 | 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		https://public.simplyblk.xyz/6.1.1.rar|
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://public.simplyblk.xyz/6.02.rar|
@@ -84,7 +84,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		https://public.simplyblk.xyz/6.10.rar|
 | 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://public.simplyblk.xyz/6.10.1.rar|
 | 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://public.simplyblk.xyz/6.10.2.rar|
-| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		N/A |
+| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 	MANIFEST ONLY |
 | 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://public.simplyblk.xyz/6.21.rar|
 | 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://public.simplyblk.xyz/6.22.rar|
 | 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://public.simplyblk.xyz/6.30.rar|
@@ -103,9 +103,9 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 8.00-CL-5203069	              | 28-02-19         	 | UE4.22            	    |		https://public.simplyblk.xyz/8.00.zip|
-| 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		N/A|
-| 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		N/A|
-| 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		N/A|
+| 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		MANIFEST ONLY
+| 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    | MANIFEST ONLY
+| 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |	MANIFEST ONLY
 | 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://public.simplyblk.xyz/8.20.rar|
 | 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.30.rar|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.40.zip|
